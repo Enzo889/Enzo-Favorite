@@ -33,7 +33,7 @@ function Navbar() {
             transition: "background-color 0.3s",
           }}
         >
-          enzofavorite.com
+          enzofavorite.vercel.app
         </NavLink>
         <NavLink
           to="/tv"
