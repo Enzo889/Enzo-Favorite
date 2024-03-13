@@ -55,7 +55,7 @@ function AboutCp() {
             <span className="circle"></span>
           </div>
           <div className="address-bar">
-            <span>enzofavorite.com</span>
+            <span>enzofavorite.vercel.app</span>
             <div className="loading"></div>
           </div>
         </div>
