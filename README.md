@@ -2,8 +2,8 @@
 
 <h1>my favorite movies and tv shows</h1>
 <p>an website that made to show my favorite movies and series using TMDb api, inspired in hoverstat.es</p>
-
-<h4> <a href=enzofavorite.vercel.app>View Demo</a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/issues"> Request Feature </a> </h4>
+<img src="https://i.pinimg.com/736x/e6/2c/bf/e62cbf40686a846a93b81854d67c9c13.jpg" /> 
+<h4> <a href="https://enzofavorite.vercel.app/">View Demo</a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Enzo889/Enzofavorite/issues"> Request Feature </a> </h4>
 
 
 </div>
